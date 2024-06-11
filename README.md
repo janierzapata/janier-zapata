@@ -13,6 +13,6 @@ const janier = {
 You can find me:
   - 🔗 [LinkedIn]: https://www.linkedin.com/in/janier-stiven-zapata-garcia-25a601140/
   - 🗃  [GitHub]: https://github.com/janierzapata
-  - 📷 [Instagram]: 
+  - 📷 [Instagram]: https://www.instagram.com/janier_stiven_zapata/
 
 
